@@ -4,7 +4,7 @@ An end-to-end Data Science project that analyzes Facebook user behavior and pred
 
 ## 📊 Live Report
 Check out the interactive data report here:
-[**View Live Insights Report**] (LINK_HERE [ https://abdulr2005.github.io/-Face-Book--Engagement-Intelligence/ ])
+(LINK_HERE: [ https://abdulr2005.github.io/-Face-Book--Engagement-Intelligence/ ])
 
 ---
 
